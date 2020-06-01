@@ -1,0 +1,43 @@
+{
+  "streams": [
+    {
+      "title": "sa",
+      "description": "sasa",
+      "id": 1
+    },
+    {
+      "title": "my second stream",
+      "description": "this is my second stream ra",
+      "id": 2
+    },
+    {
+      "title": "5w",
+      "description": "w",
+      "id": 5
+    },
+    {
+      "title": "qwerty",
+      "description": "qwerty",
+      "userId": "113144965349781684026",
+      "id": 6
+    },
+    {
+      "title": "uiop",
+      "description": "uiop",
+      "userId": "113144965349781684026",
+      "id": 7
+    },
+    {
+      "title": "asdf",
+      "description": "asdf",
+      "userId": "113144965349781684026",
+      "id": 8
+    },
+    {
+      "title": "again new",
+      "description": "again new ra",
+      "userId": "113144965349781684026",
+      "id": 9
+    }
+  ]
+}
